@@ -9,3 +9,7 @@ This document deals with loading data from simple csv file from google cloud sto
 3. Create the table schema in Jason and Javascript and upload it to storage bucket metafile.This file will be used to create the data flow 
 ![image](https://github.com/user-attachments/assets/bffab0ec-49f6-40d5-808e-6afc258e6bcf)
 
+4. Verify the table loaded in bigQuery. Similary we can load data from different sources depending on the permission level.
+![image](https://github.com/user-attachments/assets/654d8cdd-570a-4d9a-bba0-aafb82ebe859)
+
+
