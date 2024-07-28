@@ -1,0 +1,45 @@
+{
+    "BigQuery Schema":
+     [
+     {
+      "name": "VendorID",
+      "type": "STRING"
+     },
+     {
+      "name": "tpep_pickup_datetime",
+      "type": "datetime"
+     },
+     {
+      "name": "tpep_dropoff_datetime",
+      "type": "datetime"
+     },
+     {
+      "name": "passenger_count",
+      "type": "INTIGER"
+     },
+     {
+      "name": "trip_distance",
+      "type": "INTIGER"
+     },
+     {
+      "name": "RatecodeID",
+      "type": "INTIGER"
+     },
+     {
+      "name": "payment_type",
+      "type": "STRING"
+     },
+     {
+      "name": "fare_amount",
+      "type": "float"
+     },
+     {
+      "name": "tip_amount",
+      "type": "float"
+     },
+     {
+      "name": "total_amount",
+      "type": "float"
+     }
+    ]
+   }
