@@ -15,11 +15,11 @@
      },
      {
       "name": "passenger_count",
-      "type": "INTIGER"
+      "type": "INTEGER"
      },
      {
       "name": "trip_distance",
-      "type": "INTIGER"
+      "type": "INTEGER"
      },
      {
       "name": "RatecodeID",
